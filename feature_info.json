@@ -1,0 +1,37 @@
+{
+    "Attendance": {
+        "min": 60.0,
+        "max": 100.0,
+        "mean": 79.97744816104132,
+        "std": 11.547474961482814,
+        "description": "Range: 60.00 - 100.00"
+    },
+    "Hours_Studied": {
+        "min": 1.0,
+        "max": 44.0,
+        "mean": 19.975329196306948,
+        "std": 5.9905943365787415,
+        "description": "Range: 1.00 - 44.00"
+    },
+    "Study_Efficiency": {
+        "min": 1.5777777777777777,
+        "max": 46.0,
+        "mean": 3.553104268227121,
+        "std": 1.6033351149861481,
+        "description": "Range: 1.58 - 46.00"
+    },
+    "Previous_Scores": {
+        "min": 50.0,
+        "max": 100.0,
+        "mean": 75.07053125472983,
+        "std": 14.399784350759024,
+        "description": "Range: 50.00 - 100.00"
+    },
+    "Tutoring_Sessions": {
+        "min": 0.0,
+        "max": 8.0,
+        "mean": 1.4937187831088239,
+        "std": 1.2305704213240194,
+        "description": "Range: 0.00 - 8.00"
+    }
+}

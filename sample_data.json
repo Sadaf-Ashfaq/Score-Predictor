@@ -1,0 +1,42 @@
+[
+    {
+        "Attendance": -0.7774970421901317,
+        "Hours_Studied": 0.0041185681317912485,
+        "Study_Efficiency": -0.2855927140397075,
+        "Previous_Scores": 0.828510437884639,
+        "Tutoring_Sessions": -0.40124168605466753,
+        "actual_score": 65.0
+    },
+    {
+        "Attendance": -0.7774970421901317,
+        "Hours_Studied": 0.3380005269875655,
+        "Study_Efficiency": -0.4534749659454937,
+        "Previous_Scores": 1.5924685831578238,
+        "Tutoring_Sessions": 0.41145108517868284,
+        "actual_score": 65.0
+    },
+    {
+        "Attendance": 0.9546144180891273,
+        "Hours_Studied": 0.17105954755967837,
+        "Study_Efficiency": -0.2032364904649461,
+        "Previous_Scores": -1.5328147384142963,
+        "Tutoring_Sessions": -0.40124168605466753,
+        "actual_score": 71.0
+    },
+    {
+        "Attendance": 0.9546144180891273,
+        "Hours_Studied": -1.3314092672913058,
+        "Study_Efficiency": 0.8545165197607117,
+        "Previous_Scores": 0.41180599500835624,
+        "Tutoring_Sessions": -1.213934457288018,
+        "actual_score": 64.0
+    },
+    {
+        "Attendance": -1.4703416263018354,
+        "Hours_Studied": 0.17105954755967837,
+        "Study_Efficiency": -0.3449972031756011,
+        "Previous_Scores": 1.3841163617196826,
+        "Tutoring_Sessions": 0.41145108517868284,
+        "actual_score": 66.0
+    }
+]

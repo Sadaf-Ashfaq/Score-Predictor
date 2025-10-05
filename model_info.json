@@ -1,0 +1,12 @@
+{
+    "model_type": "Polynomial Regression (Degree 2)",
+    "accuracy": 1.0,
+    "features": [
+        "Attendance",
+        "Hours_Studied",
+        "Study_Efficiency",
+        "Previous_Scores",
+        "Tutoring_Sessions"
+    ],
+    "target_met": true
+}
